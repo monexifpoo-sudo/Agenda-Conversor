@@ -23,7 +23,7 @@ Tudo é acessado a partir de uma **tela de seleção**, onde o usuário escolhe 
 
 Siga o passo a passo:
 
-1. Acesse o repositório no GitHub → [linkDoRepositorioAqui]
+1. Acesse o repositório no GitHub → [Projeto Agenda e Conversor](https://github.com/monexifpoo/PROJ-MAJEKA)
 2. Clique em **Code** → **Download ZIP** para baixar o projeto compactado.
 3. Extraia o arquivo ZIP para uma pasta no seu computador.
 4. Abra o **NetBeans**.
